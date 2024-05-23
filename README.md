@@ -1,6 +1,6 @@
 # WaveFace
 Repository for "WaveFace: Authentic Face Restoration with Efficient Frequency Recovery"
-by [Yunqi Miao*](https://yoqim.github.io/), [Jiankang Deng](https://jiankangdeng.github.io/), and [Jungong Han](https://jungonghan.github.io/).
+by [Yunqi Miao](https://yoqim.github.io/), [Jiankang Deng](https://jiankangdeng.github.io/), and [Jungong Han](https://jungonghan.github.io/).
 
 :bell: We are happy to announce that this work was accepted at **CVPR 2024**. 
  
