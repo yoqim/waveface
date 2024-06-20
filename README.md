@@ -1,4 +1,4 @@
-# WaveFace
+ # WaveFace
 Repository for "WaveFace: Authentic Face Restoration with Efficient Frequency Recovery"
 by [Yunqi Miao](https://yoqim.github.io/), [Jiankang Deng](https://jiankangdeng.github.io/), and [Jungong Han](https://jungonghan.github.io/).
 
@@ -8,6 +8,8 @@ For more information, please check:
 
 **[[Paper]](https://arxiv.org/pdf/2403.12760)**
 **[[Project Page]](https://yoqim.github.io/waveface_page/)**
+
+<img src='assets/poster_1338.png'>
 
 ## Evaluation
 We release our synthetic testing dataset (**[CelebA_LQ_syn](https://drive.google.com/drive/folders/1T2Wor0KXbdZkod8YvoSKOkQCZHXXAiPq)**) and restoration results of CelebA-Test, LFW-Test, Wider-Test, WebPhoto-Test (**[ours](https://drive.google.com/drive/folders/1T2Wor0KXbdZkod8YvoSKOkQCZHXXAiPq)**).
